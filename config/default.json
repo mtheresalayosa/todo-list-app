@@ -1,0 +1,3 @@
+{
+    "MONGO_URI": "mongodb+srv://mitchellheera:6UIhlu2csuXbCjPL@cluster0.jxpvoge.mongodb.net/todo-list-db?retryWrites=true"
+}
