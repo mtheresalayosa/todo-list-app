@@ -1,4 +1,4 @@
 {
     "ENV": "dev",
-    "MONGO_URI": "mongodb+srv://mitchellheera:6UIhlu2csuXbCjPL@cluster0.jxpvoge.mongodb.net/auth-app-db?retryWrites=true"
+    "MONGO_URI": "mongodb://localhost:27017/auth-app-db?retryWrites=true"
 }
